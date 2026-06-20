@@ -1,0 +1,22 @@
+AgentHive
+
+      │
+
+      ▼
+
+ Root Agent
+
+      │
+
+ ┌────┴────┐
+
+ ▼         ▼
+
+Filesystem GitHub
+ MCP        MCP
+
+      │
+
+      ▼
+
+ Startup Report

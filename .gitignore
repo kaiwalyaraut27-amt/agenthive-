@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Secrets
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Streamlit Cache
+.streamlit/secrets.toml
+
+# Generated Reports
+outputs/reports/
+outputs/pdf/
+outputs/json/
+
+# OS Files
+.DS_Store
+Thumbs.db
